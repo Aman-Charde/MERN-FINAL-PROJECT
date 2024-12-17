@@ -1,1 +1,1 @@
-# MERN-FINAL-PROJECT
+# Minor-Project
